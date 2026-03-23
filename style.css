@@ -1,0 +1,13 @@
+body {
+  text-align: center;
+  font-family: Arial;
+}
+.name {
+  color: red;
+}
+.profile {
+  color: red;
+}
+.info {
+  margin: 20px;
+}
